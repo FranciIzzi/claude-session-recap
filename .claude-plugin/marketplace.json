@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "claude-session-recap",
+  "owner": {
+    "name": "Francesco Izzi",
+    "email": "francesco@dedpartners.com"
+  },
+  "description": "Find, understand and resume your local Claude Code sessions.",
+  "plugins": [
+    {
+      "name": "session-recap",
+      "source": "./",
+      "description": "Recap of every local Claude Code session and one-command resume in the right folder.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["sessions", "resume", "recap", "history"]
+    }
+  ]
+}

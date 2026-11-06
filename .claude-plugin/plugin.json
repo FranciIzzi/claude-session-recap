@@ -1,0 +1,14 @@
+{
+  "name": "session-recap",
+  "version": "0.1.0",
+  "description": "Recap of every local Claude Code session (where it lives, what it is about, the last thing being done) and one-command resume in the right folder.",
+  "author": {
+    "name": "Francesco Izzi",
+    "email": "francesco@dedpartners.com",
+    "url": "https://github.com/FranciIzzi"
+  },
+  "homepage": "https://github.com/FranciIzzi/claude-session-recap",
+  "repository": "https://github.com/FranciIzzi/claude-session-recap",
+  "license": "MIT",
+  "keywords": ["sessions", "resume", "recap", "history", "productivity"]
+}
